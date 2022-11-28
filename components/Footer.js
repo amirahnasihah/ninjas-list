@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer>
         Copyright 2022 Ninja List{" "}
-        <Link href="https://github.com/amirahnasihah">GitHub</Link>
+        <Link href="https://github.com/amirahnasihah/ninjas-list">GitHub</Link>
       </footer>
     </div>
   );
